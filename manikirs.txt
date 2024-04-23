@@ -1,0 +1,36 @@
+
+
+Klienta vārds: 
+Procedūras datums: 
+Procedūras laiks: 9:00
+Procedūra veids: klasiskais manikīrs
+Nagu garums: īsie
+Salauztu nagu skaits: 0
+
+Klienta vārds: 
+Procedūras datums: 
+Procedūras laiks: 9:00
+Procedūra veids: klasiskais manikīrs
+Nagu garums: īsie
+Salauztu nagu skaits: 0
+
+Klienta vārds: fgb
+Procedūras datums: 55
+Procedūras laiks: 15:00
+Procedūra veids: lakas noņemšana
+Nagu garums: īsie
+Salauztu nagu skaits: 4-5
+
+Klienta vārds: kok
+Procedūras datums: 12.10
+Procedūras laiks: 15:00
+Procedūra veids: nagu pieaudzēsana
+Nagu garums: vidējie
+Salauztu nagu skaits: 1-3
+
+Klienta vārds: bebra
+Procedūras datums: 52.05
+Procedūras laiks: 15:00
+Procedūra veids: nagu pieaudzēsana
+Nagu garums: vidējie
+Salauztu nagu skaits: 6 un vairāk
